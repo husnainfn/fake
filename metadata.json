@@ -1,0 +1,6 @@
+{
+  "name": "Husnain's Troll Portal",
+  "description": "A hilarious prank giveaway portal that unlocks the iconic SCAM HOGYA, BY HUSNAIN troll screen with sound effects, memes, and prank link sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
